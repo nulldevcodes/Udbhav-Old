@@ -12,7 +12,7 @@
 
 6. Multi Language Support
 
-7. AI Assitant
+7. AI Assistant
 
 8. Fully Customizable/Programmable
 
