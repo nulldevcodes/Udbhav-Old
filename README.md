@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/issues/nulldevcodes/Udbhav?color=orange&label=ISSUES" />
   <img src="https://img.shields.io/github/issues-pr/nulldevcodes/Udbhav?color=brightgreen&label=PULL%20REQUESTS" />
   <img src="https://img.shields.io/github/license/nulldevcodes/Udbhav?color=purple&label=LICENSE" />
-  <img src="https://img.shields.io/website?url=https%3A%2F%2Fudbhav-web.vercel.app&up_message=online&up_color=brightgreen&down_message=offline&down_color=lightgrey&style=for-the-badge" alt="App status">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fudbhav-web.vercel.app%2Fstatus.json&style=flat" alt="App Status">
 </p>
 
 
