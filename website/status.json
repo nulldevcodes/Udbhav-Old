@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "label": "STATUS",
-  "message": "OFFLINE",
-  "color": "red"
+  "label": "WEBSITE",
+  "message": "UNDER MAINTENANCE",
+  "color": "orange"
 }
