@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "APP",
-  "message": "OFFLINE",
-  "color": "brightgreen"
+  "message": "UNDER MAINTENANCE",
+  "color": "yellow"
 }
