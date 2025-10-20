@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "label": "WEBSITE",
-  "message": "ONLINE",
-  "color": "brightgreen"
+  "label": "STATUS",
+  "message": "OFFLINE",
+  "color": "red"
 }
