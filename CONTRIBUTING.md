@@ -1,11 +1,5 @@
 # 🤝 Contributing to 🇮🇳 UDBHAV — The Advanced Indian E-Marketplace
 
-[![GitHub Stars](https://img.shields.io/github/stars/nulldevcodes/Udbhav-Servers?color=gold&style=for-the-badge)](https://github.com/TheTechFactory/Udbhav/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/nulldevcodes/Udbhav-Servers?color=blue&style=for-the-badge)](https://github.com/TheTechFactory/Udbhav/forks)
-[![GitHub Issues](https://img.shields.io/github/issues/nulldevcodes/Udbhav-Servers?color=red&style=for-the-badge)](https://github.com/TheTechFactory/Udbhav/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/nulldevcodes/Udbhav-Servers?color=green&style=for-the-badge)](https://github.com/TheTechFactory/Udbhav/pulls)
-[![License](https://img.shields.io/github/license/nulldevcodes/Udbhav-Servers?color=purple&style=for-the-badge)](./LICENSE)
-
 ---
 
 ## 🌸 Welcome, Contributors!
